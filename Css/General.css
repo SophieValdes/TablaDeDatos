@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    /* padding: 0; */
+    box-sizing: border-box;
+}
+html{
+    font-size:13px;
+    font-family: sans-serif;
+}
+.tabla{
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    padding: 2%
+
+}

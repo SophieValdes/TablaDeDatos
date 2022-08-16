@@ -1,0 +1,25 @@
+.TituloPrincipal{
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-weight: 500;
+    margin-top: 2%;
+    margin-bottom: 3.5%;
+}
+.DiseñoTabla{
+    width: 70%;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: #f7cf6c;
+    background-image: linear-gradient(43deg, #f7cf6c 0%, #ffd496 46%, #FFCC70 100%);
+    
+
+}
+td{
+    width: 150px;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 1%;
+
+}
